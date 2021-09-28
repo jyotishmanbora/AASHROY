@@ -3,6 +3,7 @@ import 'package:aashroy/screens/signup_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../components.dart';
+import 'dart:ui';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({Key? key}) : super(key: key);
