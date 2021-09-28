@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712287439479",
+    "project_id": "aashroy-a133f",
+    "storage_bucket": "aashroy-a133f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712287439479:android:732a0405f22a0791415472",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712287439479-e5mobtco48p799sa5nercn557pqm6cl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6GEWWCSUte75mDnCcQZQq7el90ujmTVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712287439479-e5mobtco48p799sa5nercn557pqm6cl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
